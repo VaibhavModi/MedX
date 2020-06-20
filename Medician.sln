@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MEDx", "Login Page\MEDx.vbproj", "{F3F489D1-0BA2-448F-9BDE-A6900568B3B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Medician", "C:\Users\Vaibhav Modi\Desktop\ins\Medician.vdproj", "{D5528D3F-A8C8-4550-95C9-B36D0157A7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F489D1-0BA2-448F-9BDE-A6900568B3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F489D1-0BA2-448F-9BDE-A6900568B3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F489D1-0BA2-448F-9BDE-A6900568B3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F489D1-0BA2-448F-9BDE-A6900568B3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5528D3F-A8C8-4550-95C9-B36D0157A7CD}.Debug|Any CPU.ActiveCfg = Debug
+		{D5528D3F-A8C8-4550-95C9-B36D0157A7CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252F1E04-8851-485E-B71D-63079F1C794B}
+	EndGlobalSection
+EndGlobal

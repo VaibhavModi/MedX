@@ -1,0 +1,27 @@
+﻿Overall
+- Deleted Cart Icon from Form4,Form5,Form6,Form7,Form8
+- Changed all forms opacity to 98%
+- Cleared the Database
+- Added Security Question, Answer to the database.
+
+Form1
+
+- Changed Textbox1,Textbox2 Border Style to none
+- Added Dotted lines beneath Textbox1, Textbox2
+- Added Labels for Username, Password
+- Changed Textbox1,Textbox2 ForeColor to Grey
+
+Form2
+- Changed Textbox1,Textbox2,Textbox3,Textbox4 Border Style to none
+- Added Dotted lines beneath Textbox1, Textbox2, Textbox3, Textbox4
+- Changed Textbox1,Textbox2,Textbox3, Textbox4 ForeColor to Grey
+
+Form3
+- Changed Textbox1,Textbox3,Textbox4 Forecolor to Grey
+- Changed the Update SQL query for Security Question & Answer
+
+To Do:
+Change the cursor in all the forms
+change the mouseover style of menu bar
+Add product in Vitamins Form
+Interlink all menus in forms
